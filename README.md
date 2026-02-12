@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **Spring Boot Project**
 
-- 🤝 I’m looking for help with **Java Backend Development**
-
 - 💬 Ask me about **Java & Spring Boot REST APIs React, Vue & GSAP**
 
 - 📫 How to reach me **narayanip868@gmail.com**
